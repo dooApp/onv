@@ -13,6 +13,8 @@ Cette opération nécessite un accès Adminstrateur à la plateforme.
 
 Se rendre dans le menu Administration > Gestion des utilisateurs puis cliquer sur le bouton "Ré-envoyer le mail d'activation" au niveau du compte concerné.
 
+![Renvoyer l'email du mot de passe](https://github.com/dooApp/onv/blob/docs/wiki-images/admin_resend_email.png?raw=true)
+
 ## 2022-2 Que faire si un éditeur de logiciel n'a plus accès a sa clé de sécurité <a name="faq2022-2"></a>
 
 Il n'est pas possible de récupérer la clé de sécurité d'un éditeur depuis l'Observatoire. Si un éditeur a perdu sa clé de sécurité, il est nécessaire de supprimer la clé actuelle et d'en créer une nouvelle.
