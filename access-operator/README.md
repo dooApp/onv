@@ -52,7 +52,7 @@ Un mode d’emploi est intégré au fichier pour vous donner des indication sur 
 
 Lorsque vous avez complété votre fichier avec les données de votre contrôle, connectez vous sur le site de l’Observatoire National Ventilation,et cliquez sur “Mes contrôles de ventilation” dans le menu.
 
-![bouton d'importation du rapport de ventilation]()
+![bouton d'importation du rapport de ventilation](https://github.com/dooApp/onv/blob/docs/wiki-images/click_button_import.png?raw=true)
 
 Cliquez sur le bouton “Importer un contrôle de ventilation” en haut à droite de votre écran.
 
