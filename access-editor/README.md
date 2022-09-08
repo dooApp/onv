@@ -18,11 +18,11 @@ Pour pouvoir utiliser l'API de l'Observatoire, il est d'abors nécessaire de cr�
 Pour créer votre compte éditeur, rendez-vous à l'Observatoire, cliquez sur le bouton "Connexion", puis en bas de la page, cliquez sur le bouton "Créer un compte éditeur".
 
 
-![Création de compte utilisateur]
+![Création de compte utilisateur](https://github.com/dooApp/onv/blob/docs/wiki-images/create_editor_compte.png?raw=true)
 
 Remplissez ensuite le formulaire en renseignant toutes les informations demandées. Vous recevrez alors un email pour valider la création de votre compte éditeur et choisir votre mot de passe pour sécuriser l'accès à votre compte.
 
-![Créer votre mot de passe](https://github.com/dooApp/onv/blob/test/wiki-images/set_password.png?raw=true)
+![Créer votre mot de passe](https://github.com/dooApp/onv/blob/docs/wiki-images/set_password.png?raw=true)
 
 ## 2. API Reference <a name="apiReference"></a>
 
@@ -32,7 +32,7 @@ L'API de l'Observatoire National Ventilation est une API REST.
 
 L'API de l'Observatoire National Ventilation utilise des clés secrètes pour authentifier les requêtes provenant des logiciels. Pour obtenir votre clé secrète, connectez vous à votre compter éditeur sur l'Observatoire et rendez-vous dans le menu Compte > Mon application
 
-![Générer une clé secrète]
+![Générer une clé secrète](https://github.com/dooApp/onv/blob/docs/wiki-images/generate_secret_key.png?raw=true)
 
 Cliquez alors sur le bouton "Générer la clé secrète" pour obtenir la clé secrète de votre application.
 
