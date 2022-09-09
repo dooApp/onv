@@ -1,4 +1,4 @@
-# Access Editor
+# Accès éditeur
 
 1. [Création de compte éditeur](#creation)
 2. [API Reference](#apiReference)
