@@ -70,7 +70,7 @@ GrantAccessUrl: http://onv-test-1.eu-west-3.elasticbeanstalk.com/software-author
 
 En ouvrant l'url ``GrantAccessUrl`` dans son navigateur, l'opérateur s'authentifie et peut ensuite valider ou refuser la demande d'accès du logiciel à son compte.
 
-![Autoriser l'accès au logiciel]
+![Accorder l'accès au logiciel](https://github.com/dooApp/onv/blob/docs/wiki-images/grant-access.png?raw=true)
 
 Après validation de l'accès, votre application peut effectuer effectuer des requêtes pour le compte de cet opérateur :
 
