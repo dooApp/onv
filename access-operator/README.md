@@ -1,4 +1,4 @@
-# Accès opérateur
+# <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/logo-onv.png" align="left" height="80" width="200" > Observatoire National Ventilation - Guide d'utilisation pour l'accès opérateur
 
 1. [Création et activation de votre compte](#creation)
 2. [Modifier votre profil](#profilePage)
