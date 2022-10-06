@@ -1,97 +1,177 @@
-# <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/logo-onv.png?raw=true" align="left" height="80" width="200" > Observatoire National Ventilation - Guide d'utilisation pour l'accès opérateur
+
+<a name="top"></a>
+# <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/logo-onv.png?raw=true" align="left" height="80" width="200" > Observatoire National Ventilation <br>Guide d'utilisation pour l'accès opérateur
 
 1. [Création et activation de votre compte](#creation)
 2. [Modifier votre profil](#profilePage)
 3. [Publier un résultat de contrôle](#publish)
-    1. [Import d’un fichier](#import)
-    2. [Publication via un logiciel](#byEditor)
-4. [Consulter vos résultats de contrôle](#myReports)
+    1. [Publication via l’outil de saisie manuelle](#import)
+    2. [Publication via un logiciel du marché commercial](#byEditor)
+4. [Consulter la liste de vos résultats de contrôle](#myReports)
 5. [Mettre à jour un de vos résultats de contrôle](#updateReport)
 
 ----
  
 ## 1. Création et activation de votre compte <a name="creation"></a>
 
-Votre compte sur l’Observatoire National Ventilation est créé à l’initiative de votre organisme de qualification, suite à l’obtention de votre qualification 8741. Vous êtes prévenu de la création de votre compte par un email intitulé “Activation de votre compte Observatoire National Ventilation” envoyé à l’adresse email que vous avez fournie à votre organisme de qualification.
+Votre compte sur l’Observatoire National Ventilation est créé par votre organisme de qualification, suite à l’obtention de votre qualification 8741. Vous êtes prévenu de la création de votre compte par un email intitulé “Activation de votre compte Observatoire National Ventilation” envoyé à l’adresse email que vous avez fournie à votre organisme de qualification.
 
-Cet email contient un lien vous permettant d’activer votre compte et de définir votre mot de passe. Si le lien ne vous permet pas d'accéder à la page d'initialisation du mot de passe, veuillez le copier coller directement dans votre navigateur.
+Cet email contient un lien vous permettant d’activer votre compte et de [définir votre mot de passe](#setPassword). Si le lien ne vous permet pas d'accéder à la page d'initialisation du mot de passe, veuillez le copier coller directement dans votre navigateur.
 
 Attention, le lien d'activation reste valide 24 heures. Passé ce délai, vous devrez renouveler votre demande via la fonctionnalité "Mot de passe oublié".
 
-![Créer votre mot de passe](https://github.com/dooApp/onv/blob/docs/wiki-images/set_password.png?raw=true)
 
-Dans la page qui s’ouvre lorsque vous cliquez sur le lien, choisissez votre mot de passe, de telle sorte à ce que l’indicateur de robustesse de celui-ci soit dans le vert pour une sécurité otpimale de votre compte.
+<kbd>
+    <a name="setPassword">
+    </a><img src="https://github.com/dooApp/onv/blob/docs/wiki-images/set_password.png?raw=true" alt="Créer votre mot de passe">
+</kbd>   
 
-Vous êtes ensuite invité à vous connecter à votre compte avec votre numéro de dossier de votre organisme de qualification en tant qu’identifiant et votre mot de passe.
 
-![Succès de la configuration du mot de passe](https://github.com/dooApp/onv/blob/docs/wiki-images/password_created_success.png?raw=true)
+Dans la page qui s’ouvre lorsque vous avez cliqué sur le lien, [choisissez votre mot de passe](#set-password), de telle sorte à ce que l’indicateur de robustesse de celui-ci soit dans le vert pour une sécurité optimale de votre compte.
+
+Vous êtes ensuite invité à vous connecter à votre compte avec:
+ - votre numéro de dossier fourni par votre organisme de qualification, celui-ci est votre identifiant
+ - et votre mot de passe.
+
+
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/password_created_success.png?raw=true" alt="Succès de la configuration du mot de passe">
+</kbd>
+
 
 Vous êtes ensuite connecté à votre compte sur le site de l’Observatoire National Ventilation.
 
-![Page d'accueil après la connexion](https://github.com/dooApp/onv/blob/docs/wiki-images/logged-in_home.png?raw=true)
+
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/logged-in_home.png?raw=true" alt="Page d'accueil après la connexion">
+</kbd>
+
 
 ## 2. Modifier votre profil <a name="profilePage"></a>
 
 En cliquant dans le menu du site sur “Compte” puis sur “Profil” vous accédez à vos informations de profil.
 
-![Page de profil](https://github.com/dooApp/onv/blob/docs/wiki-images/edit_profile.png?raw=true)
 
-Vos informations de profil proviennent des informations dont dispose votre organisme de qualification. Les informations qui apparaissent sur fond gris (Nom, Prénom, Nom de Société, Siret, Département, Région) ne sont pas modifiable, hormi par l’organisme de qualification. Les informations sur fond blanc (adresse email, téléphone, adresse) sont modifiables : n’hésitez pas à les mettre à jour si nécessaire, et notamment votre adresse email si vous en changez afin que vous puissiez toujours recevoir les informations venant de l’Observatoire National Ventilation. Cliquez sur le bouton “Sauvegarder” en bas de l’écran après avoir modifié une de ces informations pour valider votre changement.
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/edit_profile.png?raw=true" alt="Page de profil">
+</kbd>
+  
+
+Vos informations de profil proviennent des informations dont dispose votre organisme de qualification. 
+
+Les informations qui apparaissent sur fond gris (Nom, Prénom, Nom de Société, Siret, Département, Région) ne sont pas modifiables, hormis par l’organisme de qualification. 
+
+Les informations qui apparaissent sur fond blanc (adresse email, téléphone, adresse) sont modifiables : n’hésitez pas à les mettre à jour si nécessaire, et notamment votre adresse email si vous en changez afin que vous puissiez toujours recevoir les informations venant de l’Observatoire National Ventilation. 
+
+Cliquez sur le bouton “Sauvegarder” en bas de l’écran après avoir modifié une ou plusieurs de ces informations pour valider votre changement.
 
 ## 3. Publier un résultat de contrôle <a name="publish"></a>
 
-La publication de vos résultats de contrôle de ventilation RE2020 est une obligation réglementaire. Il existe deux moyens de la réaliser : par import d’un fichier Excel par contrôle ou par l’utilisation d’un logiciel du marché commercial conçu pour alimenter l’Observatoire.
+La publication(alimentation de l’Observatoire National Ventilation) de vos résultats de contrôle de ventilation RE2020 est une obligation réglementaire. 
 
-### i. Import d’un fichier <a name="import"></a>
+Pour chacun de vos contrôles de ventilation RE2020, vous devez alimenter l’Observatoire National Ventilation avec les données attendues par celui-ci.
 
-Pour chacun de vos contrôles de ventilation RE2020, vous devez remplir ce fichier avec les données attendues par l’Observatoire National Ventilation.
+Ces données seront utilisées à la fois pour le contrôle de votre activité par votre organisme de qualification et pour la construction d’indicateurs statistiques globaux des contrôles ventilation RE2020 réalisés sur le territoire national.
 
-Ces données seront utilisées à la fois pour le contrôle de votre activité par votre organisme de qualification et pour la construction d’indicateurs statistiques globaux des contrôles ventilation RE2020 realisés sur le territoire national.
+Il existe deux moyens de réaliser la publication: 
+- par import via l’outil de saisie manuelle « RE2020_ONV_Outil_Saisie_Manuelle_V1.xlsx  » disponible dans l’onglet « Documentation » 
+ou 
+- par l’utilisation d’un logiciel du marché commercial conçu pour alimenter l’Observatoire National Ventilation.
+
+### i. Publication via l’outil de saisie manuelle <a name="import"></a>
+
+La publication de vos résultats de contrôles de ventilation est possible par l’intermédiaire d’un outil de saisie manuelle (fichier Eexcel) disponible gratuitement par téléchargement dans l’onglet « Documentation ». Ce fichier eExcel est dénommé « RE2020_ONV_Outil_Saisie_Manuelle_V1.xlsx ».
 
 Un mode d’emploi est intégré au fichier pour vous donner des indication sur la façon de le remplir.
 
-Lorsque vous avez complété votre fichier avec les données de votre contrôle, connectez vous sur le site de l’Observatoire National Ventilation,et cliquez sur “Mes contrôles de ventilation” dans le menu.
+Lorsque vous avez complété votre fichier avec les données de votre contrôle: 
+- connectez vous sur le site de l’Observatoire National Ventilation
+- et cliquez sur “Mes contrôles de ventilation” dans le menu.
 
-![bouton d'importation du rapport de ventilation](https://github.com/dooApp/onv/blob/docs/wiki-images/click_button_import.png?raw=true)
+
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/click_button_import.png?raw=true" alt="bouton d'importation du rapport de ventilation">
+</kbd>
+
 
 Cliquez sur le bouton “Importer un contrôle de ventilation” en haut à droite de votre écran.
 
 Une fenêtre s’ouvre :
 
-![Fenêtre popup d'importation](https://github.com/dooApp/onv/blob/docs/wiki-images/popup_import.jpg?raw=true)
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/popup_import.jpg?raw=true" alt="Fenêtre popup d'importation">
+</kbd>
+
 
 Le bouton “Choisir un fichier” vous permet de sélectionner sur votre disque dur le fichier que vous souhaitez importer. Une fois celui-ci sélectionné, cliquez sur le bouton “Importer”.
 
 Si le contenu du fichier respecte les règles attendues par l’Observatoire National Ventilation, alors le contrôle est publié et vous en avez la confirmation par ce message à l’écran :
 
-![Message de réussite de l'importation](https://github.com/dooApp/onv/blob/docs/wiki-images/import_success.png?raw=true)
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/import_success.png?raw=true" alt="Message de réussite de l'importation">
+</kbd>
 
-Si le contenu du fichier ne respecte pas une ou plusieurs des règles attendues par l’Observatoire National Ventilation (format du fichier, complétude et cohérence des données qu’il contient… elles sont listées dans le mode d’emploi présenté dans le fichier à remplir), le fichier n’est pas publié et un ou plusieurs messages vous informent des anomalies constatées. Vous êtes invité à corriger ces anomalies avant de pouvoir publier votre contrôle sur l’Observatoire.
+#### Message d’information/d’erreur/d’avertissement
+A. Fichier non publié avec message d’information 
+Si le contenu du fichier ne respecte pas une ou plusieurs des règles attendues par l’Observatoire National Ventilation liste dans le mode d’emploi l'outil de saisie manuelle), le contrôle n’est pas publié et un ou plusieurs messages vous informent des anomalies constatées. Vous êtes invité à corriger ces anomalies avant de pouvoir publier votre contrôle sur l’Observatoire National Ventilation. L’extraction ci-dessous est un exemple de messages d’anomalies.
 
-![Message d'échec de l'importation](https://github.com/dooApp/onv/blob/docs/wiki-images/import_error.png?raw=true)
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/import_error.png?raw=true" alt="Message d'échec de l'importation">
+</kbd>
 
+B. Fichier non publié mais avec message d’erreur
 Dans un cas particulier, votre contrôle s’importe correctement, mais un message d’avertissement vous est tout de même affiché : il s’agit du cas où l’ensemble des mesures fonctionnelles aux bouches normalement attendues pour le contrôle n’est pas présent dans votre fichier. Si l’absence de certaines de ces mesures fonctionnelles aux bouches n’est pas justifiée et qu’il s’agit d’un oubli ou d’une erreur, il vous faudra alors mettre à jour votre contrôle par la suite pour les ajouter.
 
-Dans le cas où le contrôle que vous essayez d’importer présente les mêmes références de rapport, identifiant du bâtiment et identifiant du système de ventilation qu’un contrôle déjà publié, un message d’erreur vous en informera et vous invitera à utiliser plutôt la fonction de mise à jour d’un contrôle si cela était votre intention.
 
-### ii. Publication via un logiciel <a name="byEditor"></a>
+C. Fichier publié mais avec message d’avertissement
+Votre contrôle s’importe correctement, mais un message d’avertissement vous est tout de même affiché : il s’agit du cas où l’ensemble des mesures fonctionnelles aux bouches normalement attendues pour le contrôle n’est pas présent dans votre fichier. Si l’absence de certaines de ces mesures fonctionnelles aux bouches n’est pas justifiée et qu’il s’agit d’un oubli ou d’une erreur, il vous faudra alors mettre à jour votre contrôle par la suite pour les ajouter.
 
-Vous pouvez aussi publier les contrôles de ventilation par l’intermédiaire d’un logiciel du marché disposant des fonctionnalités nécessaires pour communiquer avec l’Observatoire National Ventilation, si vous en disposez. Dans ce cas référez-vous au mode d’emploi de votre logiciel pour savoir comment réaliser vos publications par ce moyen. A noter que le logiciel devra pour votre première publication vous rediriger vers votre compte sur le site de Observatoire National Ventilation afin que vous donniez votre autorisation à votre logiciel de publier vos contrôles sur votre compte.
 
-![Accorder l'accès au logiciel](https://github.com/dooApp/onv/blob/docs/wiki-images/grant-access.png?raw=true)
+### ii. Publication via un logiciel du marché commercial <a name="byEditor"></a>
 
-## 4. Consulter vos résultats de contrôle <a name="myReports"></a>
+La publication de vos résultats de contrôles de ventilation est aussi possible par l’intermédiaire d’un logiciel du marché disposant des fonctionnalités nécessaires pour communiquer avec l’Observatoire National Ventilation, 
+- Si vous disposez de ce type de logiciel référez-vous au mode d’emploi de celui-ci pour savoir comment réaliser vos publications sur l’Observatoire National Ventilation.
+Nota: lors de votre première publication, le logiciel vous redirigera vers votre compte sur le site de l'Observatoire National Ventilation afin que vous donniez l'autorisation à votre logiciel de publier vos contrôles sur votre compte.
+
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/grant-access.png?raw=true" alt="Accorder l'accès au logiciel">
+</kbd>
+
+
+## 4. Consulter la liste de vos résultats de contrôle <a name="myReports"></a>
 
 Connectez vous sur le site de l’Observatoire National Ventilation, et cliquez sur “Mes contrôles de ventilation” dans le menu.
 
-![Tous les rapports](https://github.com/dooApp/onv/blob/docs/wiki-images/all_reports.png?raw=true)
+<kbd>
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/all_reports.png?raw=true" alt="Tous les rapports">
+</kbd>
 
-Vous visualisez ainsi la liste complète des contrôles de ventilation que vous avez publiés, avec les information suivantes : * la référence du rapport * le nom de l’opération * l’identifiant du bâtiment, * l’identifiant du système de ventilation * le code postal de l’opération * la date de vérification sur site * la conformité réglementaire du système * et la date de création du contrôle sur l’Observatoire National Ventilation.
 
-Pour chacun de vos contrôles, vous avez accès à droite à un bouton “Editer” qui vous permet de mettre à jour le contrôle en important un fichier de contrôle.
+Vous visualisez ainsi la liste complète des contrôles de ventilation que vous avez publiés, avec les informations suivantes : 
+ - la référence du rapport 
+ - le nom de l’opération 
+ - l’identifiant du bâtiment
+ - le code postal de l'opération
+ - la date de création du contrôle sur l’Observatoire National Ventilation
+ - la conformité réglementaire du système de ventilation contrôlé
+ - la date de vérification sur site du système de ventilation
+ - et l’identifiant du système de ventilation
+ 
+Pour chacun de vos contrôles, vous avez accès à droite à un bouton « Editer » qui vous permet de mettre à jour vos résultats de contrôle.
 
 ## 5. Mettre à jour un de vos résultats de contrôle <a name="updateReport"></a>
 
-Au clic sur le bouton “Editer” au bout de ligne d’un de vos contrôles dans la section “Mes contrôles de ventilation”, une fenêtre s’ouvre vous invitant à sélectionner un fichier de contrôle, de la même façon que pour l’import d’un nouveau contrôle.
+Pour mettre à jour un de vos résultats de contrôle, vous disposez d’un bouton « Editer » au bout de ligne d’un de vos contrôles dans la section “Mes contrôles de ventilation”.
 
-Lorsque vous avez sélectionné un fichier et validé l’import, l’Observatoire National Ventilation vérifie que la référence du rapport, l’identifiant du bâtiment et l’identifiant du système de ventilation correspondent bien à ceux du contrôle sélectionné. Dans le cas contraire, un message d’erreur vous en avertira, et vous invitera soit à sélectionner un fichier correct soit à importer un nouveau contrôle si cela était votre intention.
+En sélectionnant « Editer », une fenêtre s’ouvre vous invitant à sélectionner un fichier de contrôle, de la même façon que pour l’import d’un nouveau contrôle.
+
+Lorsque vous avez sélectionné le fichier et validé l’import, l’Observatoire National Ventilation vérifie que la référence du rapport, l’identifiant du bâtiment et l’identifiant du système de ventilation correspondent bien à ceux du contrôle sélectionné. 
+
+Si toutes les conditions sont respectées le contrôle existant est remplacé par le nouveau fichier. 
+
+Dans le cas contraire, un message d’erreur apparaît, et vous invite:
+- à sélectionner un fichier conforme ou
+- à importer un nouveau contrôle si cela était votre intention.
+
+
+ $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$[HAUT DE PAGE](#top)
