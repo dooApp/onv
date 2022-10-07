@@ -141,7 +141,7 @@ C. Fichier publié mais avec message d’avertissement
 Votre contrôle s’importe correctement, mais un message d’avertissement vous est tout de même affiché : il s’agit du cas où l’ensemble des mesures fonctionnelles aux bouches normalement attendues pour le contrôle n’est pas présent dans votre fichier. Si l’absence de certaines de ces mesures fonctionnelles aux bouches n’est pas justifiée et qu’il s’agit d’un oubli ou d’une erreur, il vous faudra alors mettre à jour votre contrôle par la suite pour les ajouter.
 
 <kbd>
-    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/import_with_warning.png?raw=true" alt="Message d'échec de l'importation">
+    <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/import_with_warning.png?raw=true" alt="Importation réussie avec message d'avertissement">
 </kbd>
 <br/><br/>
 
@@ -149,6 +149,7 @@ Votre contrôle s’importe correctement, mais un message d’avertissement vous
 
 La publication de vos résultats de contrôles de ventilation est aussi possible par l’intermédiaire d’un logiciel du marché disposant des fonctionnalités nécessaires pour communiquer avec l’Observatoire National Ventilation, 
  - Si vous disposez de ce type de logiciel référez-vous au mode d’emploi de celui-ci pour savoir comment réaliser vos publications sur l’Observatoire National Ventilation.
+
 Nota: lors de votre première publication, le logiciel vous redirigera vers votre compte sur le site de l'Observatoire National Ventilation afin que vous donniez l'autorisation à votre logiciel de publier vos contrôles sur votre compte.
 
 <kbd>
