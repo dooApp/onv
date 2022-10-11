@@ -196,5 +196,4 @@ ou
 - à importer un nouveau contrôle si cela était votre intention.
 
 <br/><br/>
-
-<a href="#top">HAUT DE PAGE</a> 
+<a href="#top"> <img src="https://github.com/dooApp/onv/blob/docs/wiki-images/arrow_top.png?raw=true"  height="10" width="20" alt="Haut de page">HAUT DE PAGE</a>  
